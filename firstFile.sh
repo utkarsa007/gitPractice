@@ -5,4 +5,7 @@ echo "Enter Second Numbeer"
 read y
 
 echo "Lets print addition";
-echo "$( x+y )"
+echo "$(( x+y ))"
+
+echo "Lets print substraction";
+echo "$(( x-y ))"

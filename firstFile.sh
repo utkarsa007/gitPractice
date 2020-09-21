@@ -9,3 +9,6 @@ echo "$(( x+y ))"
 
 echo "Lets print substraction";
 echo "$(( x-y ))"
+
+echo "Lets print multiplication";
+echo "$(( x*y ))"
